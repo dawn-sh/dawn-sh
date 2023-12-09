@@ -3,7 +3,7 @@
 
 <a href="https://velog.io/@tjdgus9773" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 <a href="https://www.notion.so/Portfolio-f97ba25782074be8be0522122bc730cb?pvs=4" target="_blank">
-<img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
+<img src="https://img.shields.io/badge/Notion-?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawn-sh&show_icons=true&theme=transparent)
 
 <!--
