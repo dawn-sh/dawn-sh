@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdawn-sh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://velog.io/@tjdgus9773" target="_blank"><img src="https://img.shields.io/badge/Velog-배경색?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
+<a href="https://velog.io/@tjdgus9773" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawn-sh&show_icons=true&theme=transparent)
 
